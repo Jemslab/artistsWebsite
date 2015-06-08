@@ -1,2 +1,3 @@
 # artistsWebsite
-This project brings artists and events organizers closer together than ever before.So plese you are invited to contribute as necessary.
+This project brings artists and fans closely together.The sole purpose is to enable fans to hire their celebrities to their events.Written in 
+php,jquery and mysql.
